@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\005_Check\bin\Debug\005_Check.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\005_Check\bin\Debug\005_Check.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\005_Check\bin\Debug\005_Check.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.csproj.AssemblyReference.cache

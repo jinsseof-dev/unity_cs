@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.pdb
