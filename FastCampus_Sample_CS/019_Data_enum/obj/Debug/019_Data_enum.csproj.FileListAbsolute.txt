@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.pdb

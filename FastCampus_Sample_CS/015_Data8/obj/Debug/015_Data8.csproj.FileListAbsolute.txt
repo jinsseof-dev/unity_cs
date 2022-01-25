@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\015_Data8\obj\Debug\015_Data8.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\015_Data8\obj\Debug\015_Data8.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\015_Data8\bin\Debug\015_Data8.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\015_Data8\bin\Debug\015_Data8.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\015_Data8\bin\Debug\015_Data8.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\015_Data8\obj\Debug\015_Data8.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\015_Data8\obj\Debug\015_Data8.pdb

@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\020_Data_eunm2\bin\Debug\020_Data_eunm2.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\020_Data_eunm2\bin\Debug\020_Data_eunm2.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\020_Data_eunm2\bin\Debug\020_Data_eunm2.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\020_Data_eunm2\obj\Debug\020_Data_eunm2.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\020_Data_eunm2\obj\Debug\020_Data_eunm2.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\020_Data_eunm2\obj\Debug\020_Data_eunm2.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\020_Data_eunm2\obj\Debug\020_Data_eunm2.pdb

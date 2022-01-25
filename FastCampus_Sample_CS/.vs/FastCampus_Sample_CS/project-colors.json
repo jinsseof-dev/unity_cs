@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1e8b29f-6571-4b25-879b-a0dea921d50e": {
+      "ProjectGuid": "e1e8b29f-6571-4b25-879b-a0dea921d50e",
+      "DisplayName": "001_HelloWorld",
+      "ColorIndex": 0
+    },
+    "fb501aa9-2a76-46f7-93cc-d2f001028e3c": {
+      "ProjectGuid": "fb501aa9-2a76-46f7-93cc-d2f001028e3c",
+      "DisplayName": "002_HelloWorld2",
+      "ColorIndex": 1
+    },
+    "4932ce6a-e93b-43f9-bf2e-61efcad8c345": {
+      "ProjectGuid": "4932ce6a-e93b-43f9-bf2e-61efcad8c345",
+      "DisplayName": "003_HelloWorld3",
+      "ColorIndex": 2
+    },
+    "b863dc25-2b50-4efe-b6d0-0d73937c8101": {
+      "ProjectGuid": "b863dc25-2b50-4efe-b6d0-0d73937c8101",
+      "DisplayName": "004_Check",
+      "ColorIndex": 3
+    },
+    "73d34646-e2f1-4f08-9390-82447408246f": {
+      "ProjectGuid": "73d34646-e2f1-4f08-9390-82447408246f",
+      "DisplayName": "005_Check",
+      "ColorIndex": 4
+    },
+    "4adb2f71-4710-42ad-8979-90cf1e5efff4": {
+      "ProjectGuid": "4adb2f71-4710-42ad-8979-90cf1e5efff4",
+      "DisplayName": "006_Variable",
+      "ColorIndex": 5
+    },
+    "9b22b12c-7c0a-409e-a6dd-4db6b7dbf717": {
+      "ProjectGuid": "9b22b12c-7c0a-409e-a6dd-4db6b7dbf717",
+      "DisplayName": "007_Variable2",
+      "ColorIndex": 6
+    },
+    "6eac2e98-39c8-437b-bb79-18a384892c84": {
+      "ProjectGuid": "6eac2e98-39c8-437b-bb79-18a384892c84",
+      "DisplayName": "008_Data1",
+      "ColorIndex": 7
+    },
+    "2446657e-f3f6-4c9b-8147-0929aa325e7d": {
+      "ProjectGuid": "2446657e-f3f6-4c9b-8147-0929aa325e7d",
+      "DisplayName": "009_Data2",
+      "ColorIndex": 8
+    },
+    "c2260939-3950-4f43-92b8-8efac59f690a": {
+      "ProjectGuid": "c2260939-3950-4f43-92b8-8efac59f690a",
+      "DisplayName": "010_Data3",
+      "ColorIndex": 9
+    },
+    "5923ae0d-96e7-4a15-ba54-830568318a67": {
+      "ProjectGuid": "5923ae0d-96e7-4a15-ba54-830568318a67",
+      "DisplayName": "011_Data4",
+      "ColorIndex": 10
+    },
+    "9cad56a9-e9d9-4113-af4c-7dee5405a07d": {
+      "ProjectGuid": "9cad56a9-e9d9-4113-af4c-7dee5405a07d",
+      "DisplayName": "012_Data5",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}
