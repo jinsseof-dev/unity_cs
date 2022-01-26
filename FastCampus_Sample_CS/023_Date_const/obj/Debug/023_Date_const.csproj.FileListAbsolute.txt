@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\023_Date_const\bin\Debug\023_Date_const.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\023_Date_const\bin\Debug\023_Date_const.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\023_Date_const\bin\Debug\023_Date_const.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\023_Date_const\obj\Debug\023_Date_const.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\023_Date_const\obj\Debug\023_Date_const.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\023_Date_const\obj\Debug\023_Date_const.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\023_Date_const\obj\Debug\023_Date_const.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\023_Date_const\obj\Debug\023_Date_const.pdb

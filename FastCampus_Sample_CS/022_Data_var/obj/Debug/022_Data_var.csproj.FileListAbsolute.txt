@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\022_Data_var\bin\Debug\022_Data_var.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\022_Data_var\bin\Debug\022_Data_var.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\022_Data_var\bin\Debug\022_Data_var.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\022_Data_var\obj\Debug\022_Data_var.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\022_Data_var\obj\Debug\022_Data_var.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\022_Data_var\obj\Debug\022_Data_var.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\022_Data_var\obj\Debug\022_Data_var.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\022_Data_var\obj\Debug\022_Data_var.pdb
