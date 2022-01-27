@@ -105,7 +105,37 @@
       "ProjectGuid": "b468d695-8041-42b3-af44-816bcb887abf",
       "DisplayName": "021_Data_nullable",
       "ColorIndex": 4
+    },
+    "c05a8cab-a70f-4488-99fe-fff67d60f84d": {
+      "ProjectGuid": "c05a8cab-a70f-4488-99fe-fff67d60f84d",
+      "DisplayName": "022_Data_var",
+      "ColorIndex": 5
+    },
+    "c1348bca-ccde-492f-831b-c8e86cc0ec0c": {
+      "ProjectGuid": "c1348bca-ccde-492f-831b-c8e86cc0ec0c",
+      "DisplayName": "023_Date_const",
+      "ColorIndex": 6
+    },
+    "7425c3ca-090a-44f6-9ef0-8e1a6c48b545": {
+      "ProjectGuid": "7425c3ca-090a-44f6-9ef0-8e1a6c48b545",
+      "DisplayName": "024_Data_cast",
+      "ColorIndex": 7
+    },
+    "f82a5829-5b3f-4588-93ea-20106fe4dffd": {
+      "ProjectGuid": "f82a5829-5b3f-4588-93ea-20106fe4dffd",
+      "DisplayName": "025_Date_ToString",
+      "ColorIndex": 8
+    },
+    "53effc60-78bd-45e0-b814-b5b5ce1d5e5c": {
+      "ProjectGuid": "53effc60-78bd-45e0-b814-b5b5ce1d5e5c",
+      "DisplayName": "026_Data_Parse",
+      "ColorIndex": 9
+    },
+    "c2cabb5d-e19e-4f79-838a-55409c04401d": {
+      "ProjectGuid": "c2cabb5d-e19e-4f79-838a-55409c04401d",
+      "DisplayName": "027_Data_Convert",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 11
 }

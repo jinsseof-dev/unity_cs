@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\025_Date_ToString\bin\Debug\025_Date_ToString.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\025_Date_ToString\bin\Debug\025_Date_ToString.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\025_Date_ToString\bin\Debug\025_Date_ToString.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\025_Date_ToString\obj\Debug\025_Date_ToString.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\025_Date_ToString\obj\Debug\025_Date_ToString.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\025_Date_ToString\obj\Debug\025_Date_ToString.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\025_Date_ToString\obj\Debug\025_Date_ToString.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\025_Date_ToString\obj\Debug\025_Date_ToString.pdb
