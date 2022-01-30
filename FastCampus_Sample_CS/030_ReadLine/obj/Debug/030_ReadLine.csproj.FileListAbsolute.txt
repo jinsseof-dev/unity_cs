@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.pdb

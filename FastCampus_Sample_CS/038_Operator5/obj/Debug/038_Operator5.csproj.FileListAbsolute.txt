@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.pdb

@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\029_Data_boxing\bin\Debug\029_Data_boxing.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\029_Data_boxing\bin\Debug\029_Data_boxing.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\029_Data_boxing\bin\Debug\029_Data_boxing.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.pdb

@@ -135,7 +135,77 @@
       "ProjectGuid": "c2cabb5d-e19e-4f79-838a-55409c04401d",
       "DisplayName": "027_Data_Convert",
       "ColorIndex": 10
+    },
+    "f5698ca6-424e-40e4-bf26-d2a85d9c7069": {
+      "ProjectGuid": "f5698ca6-424e-40e4-bf26-d2a85d9c7069",
+      "DisplayName": "028_Data_Reference",
+      "ColorIndex": 11
+    },
+    "8c8f95d3-5464-4022-9944-e607ba5e45f2": {
+      "ProjectGuid": "8c8f95d3-5464-4022-9944-e607ba5e45f2",
+      "DisplayName": "029_Data_boxing",
+      "ColorIndex": 12
+    },
+    "a2528229-daaf-494e-aef7-4ad794856438": {
+      "ProjectGuid": "a2528229-daaf-494e-aef7-4ad794856438",
+      "DisplayName": "030_ReadLine",
+      "ColorIndex": 13
+    },
+    "00abb174-0c7c-4e36-90b5-a5dee68e6793": {
+      "ProjectGuid": "00abb174-0c7c-4e36-90b5-a5dee68e6793",
+      "DisplayName": "031_ReadLine2",
+      "ColorIndex": 14
+    },
+    "5dc177c2-5be6-49e7-ac91-651db13975dd": {
+      "ProjectGuid": "5dc177c2-5be6-49e7-ac91-651db13975dd",
+      "DisplayName": "034_Operator1",
+      "ColorIndex": 15
+    },
+    "28171917-4f4e-4166-9196-39000bb6a967": {
+      "ProjectGuid": "28171917-4f4e-4166-9196-39000bb6a967",
+      "DisplayName": "035_Operator2",
+      "ColorIndex": 0
+    },
+    "27ab10a0-e3c2-4d15-9a18-1b012b18df87": {
+      "ProjectGuid": "27ab10a0-e3c2-4d15-9a18-1b012b18df87",
+      "DisplayName": "036_Operator3",
+      "ColorIndex": 1
+    },
+    "00de4517-b6c4-4f05-8aa3-469dbaa65cb6": {
+      "ProjectGuid": "00de4517-b6c4-4f05-8aa3-469dbaa65cb6",
+      "DisplayName": "036_01_Operator3",
+      "ColorIndex": 2
+    },
+    "ff29bfce-9e7b-41e6-b532-4114bc6dc471": {
+      "ProjectGuid": "ff29bfce-9e7b-41e6-b532-4114bc6dc471",
+      "DisplayName": "037_Operator4",
+      "ColorIndex": 3
+    },
+    "7316a5c3-8705-4943-bc72-16e3286d87dc": {
+      "ProjectGuid": "7316a5c3-8705-4943-bc72-16e3286d87dc",
+      "DisplayName": "038_Operator5",
+      "ColorIndex": 4
+    },
+    "81983251-84f6-4473-ab7c-1ad5f5b6b4e6": {
+      "ProjectGuid": "81983251-84f6-4473-ab7c-1ad5f5b6b4e6",
+      "DisplayName": "039_Operator6",
+      "ColorIndex": 5
+    },
+    "d4824643-322e-41a0-9406-1f15424b1027": {
+      "ProjectGuid": "d4824643-322e-41a0-9406-1f15424b1027",
+      "DisplayName": "040_Operator_BI",
+      "ColorIndex": 6
+    },
+    "bbafd9cd-c575-497f-b167-41c073a98ae1": {
+      "ProjectGuid": "bbafd9cd-c575-497f-b167-41c073a98ae1",
+      "DisplayName": "040_Operator_Bit",
+      "ColorIndex": 7
+    },
+    "671b0352-8bb2-4934-ab97-b64c61209967": {
+      "ProjectGuid": "671b0352-8bb2-4934-ab97-b64c61209967",
+      "DisplayName": "041_Operator_Null",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 9
 }

@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.pdb
