@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{58519367-66BA-47EC-B08F-80FF85C6E41C}</ProjectGuid>
+    <ProjectGuid>{4CB92CDA-9471-4289-B889-609CD5CDFB99}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_055_Check</RootNamespace>
-    <AssemblyName>055_Check</AssemblyName>
+    <RootNamespace>_057_Check</RootNamespace>
+    <AssemblyName>057_Check</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
