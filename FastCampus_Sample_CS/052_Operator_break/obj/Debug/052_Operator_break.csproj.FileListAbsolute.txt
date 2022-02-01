@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\052_Operator_break\bin\Debug\052_Operator_break.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\052_Operator_break\bin\Debug\052_Operator_break.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\052_Operator_break\bin\Debug\052_Operator_break.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.pdb

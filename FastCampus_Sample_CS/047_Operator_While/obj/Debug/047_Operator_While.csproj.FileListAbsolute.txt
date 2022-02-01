@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\047_Operator_While\bin\Debug\047_Operator_While.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\047_Operator_While\bin\Debug\047_Operator_While.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\047_Operator_While\bin\Debug\047_Operator_While.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\047_Operator_While\obj\Debug\047_Operator_While.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\047_Operator_While\obj\Debug\047_Operator_While.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\047_Operator_While\obj\Debug\047_Operator_While.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\047_Operator_While\obj\Debug\047_Operator_While.pdb

@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\043_Operator_branch3\bin\Debug\043_Operator_branch3.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\043_Operator_branch3\bin\Debug\043_Operator_branch3.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\043_Operator_branch3\bin\Debug\043_Operator_branch3.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\043_Operator_branch3\obj\Debug\043_Operator_branch3.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\043_Operator_branch3\obj\Debug\043_Operator_branch3.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\043_Operator_branch3\obj\Debug\043_Operator_branch3.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\043_Operator_branch3\obj\Debug\043_Operator_branch3.pdb
