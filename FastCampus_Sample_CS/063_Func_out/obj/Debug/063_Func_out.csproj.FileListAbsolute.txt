@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\063_Func_out\obj\Debug\063_Func_out.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\063_Func_out\obj\Debug\063_Func_out.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\063_Func_out\bin\Debug\063_Func_out.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\063_Func_out\bin\Debug\063_Func_out.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\063_Func_out\bin\Debug\063_Func_out.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\063_Func_out\obj\Debug\063_Func_out.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\063_Func_out\obj\Debug\063_Func_out.pdb

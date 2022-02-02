@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\064_Func_default\bin\Debug\064_Func_default.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\064_Func_default\bin\Debug\064_Func_default.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\064_Func_default\bin\Debug\064_Func_default.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\064_Func_default\obj\Debug\064_Func_default.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\064_Func_default\obj\Debug\064_Func_default.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\064_Func_default\obj\Debug\064_Func_default.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\064_Func_default\obj\Debug\064_Func_default.pdb
