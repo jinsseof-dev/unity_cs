@@ -245,7 +245,67 @@
       "ProjectGuid": "5a7504c6-eb84-4cb7-827c-3259ce806e7c",
       "DisplayName": "053_Operator_continue",
       "ColorIndex": 0
+    },
+    "58519367-66ba-47ec-b08f-80ff85c6e41c": {
+      "ProjectGuid": "58519367-66ba-47ec-b08f-80ff85c6e41c",
+      "DisplayName": "055_Check",
+      "ColorIndex": 1
+    },
+    "ece782d2-4c96-4997-b002-4b665fa4d9ce": {
+      "ProjectGuid": "ece782d2-4c96-4997-b002-4b665fa4d9ce",
+      "DisplayName": "056_Check",
+      "ColorIndex": 2
+    },
+    "4cb92cda-9471-4289-b889-609cd5cdfb99": {
+      "ProjectGuid": "4cb92cda-9471-4289-b889-609cd5cdfb99",
+      "DisplayName": "057_Check",
+      "ColorIndex": 3
+    },
+    "d9265339-6fb1-4ae2-96af-6fdb4d1e12b7": {
+      "ProjectGuid": "d9265339-6fb1-4ae2-96af-6fdb4d1e12b7",
+      "DisplayName": "CheckPoint01",
+      "ColorIndex": 4
+    },
+    "39ee0e4b-d180-40f7-a817-a48e2be6367c": {
+      "ProjectGuid": "39ee0e4b-d180-40f7-a817-a48e2be6367c",
+      "DisplayName": "059_Func2",
+      "ColorIndex": 5
+    },
+    "a7ff2338-eb86-4184-b49d-10a8052cc90a": {
+      "ProjectGuid": "a7ff2338-eb86-4184-b49d-10a8052cc90a",
+      "DisplayName": "062_FuncSwap",
+      "ColorIndex": 6
+    },
+    "b4ffd495-ba18-4579-bd7c-cff518d0a93b": {
+      "ProjectGuid": "b4ffd495-ba18-4579-bd7c-cff518d0a93b",
+      "DisplayName": "063_Func_out",
+      "ColorIndex": 7
+    },
+    "c347d172-52dd-4c42-b22c-07f8aef5b5db": {
+      "ProjectGuid": "c347d172-52dd-4c42-b22c-07f8aef5b5db",
+      "DisplayName": "064_Func_default",
+      "ColorIndex": 8
+    },
+    "2db81118-f81e-4a1d-b7d7-8eb785b0d2aa": {
+      "ProjectGuid": "2db81118-f81e-4a1d-b7d7-8eb785b0d2aa",
+      "DisplayName": "065_Func_Overloading",
+      "ColorIndex": 9
+    },
+    "d94414a8-e730-4d8b-982c-f0b4b34f422d": {
+      "ProjectGuid": "d94414a8-e730-4d8b-982c-f0b4b34f422d",
+      "DisplayName": "066_Func_params",
+      "ColorIndex": 10
+    },
+    "8c8f621f-da5e-4a23-9b8f-61b3071ccd89": {
+      "ProjectGuid": "8c8f621f-da5e-4a23-9b8f-61b3071ccd89",
+      "DisplayName": "067_Check",
+      "ColorIndex": 11
+    },
+    "0f03e584-007a-4020-845d-584df1dfb000": {
+      "ProjectGuid": "0f03e584-007a-4020-845d-584df1dfb000",
+      "DisplayName": "CheckPoint02",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 13
 }
