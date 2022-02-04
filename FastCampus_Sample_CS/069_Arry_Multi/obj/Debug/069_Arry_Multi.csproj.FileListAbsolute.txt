@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\069_Arry_Multi\bin\Debug\069_Arry_Multi.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\069_Arry_Multi\bin\Debug\069_Arry_Multi.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\069_Arry_Multi\bin\Debug\069_Arry_Multi.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\069_Arry_Multi\obj\Debug\069_Arry_Multi.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\069_Arry_Multi\obj\Debug\069_Arry_Multi.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\069_Arry_Multi\obj\Debug\069_Arry_Multi.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\069_Arry_Multi\obj\Debug\069_Arry_Multi.pdb
