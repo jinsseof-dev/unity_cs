@@ -340,7 +340,12 @@
       "ProjectGuid": "f246d23b-e170-4d4c-a7c7-5a3649a98c00",
       "DisplayName": "076_Check",
       "ColorIndex": 3
+    },
+    "0d4c7837-2be9-4427-b412-ca86741797e4": {
+      "ProjectGuid": "0d4c7837-2be9-4427-b412-ca86741797e4",
+      "DisplayName": "CheckPoint03",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
