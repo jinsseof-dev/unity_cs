@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\077_class_Point\bin\Debug\077_class_Point.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\077_class_Point\bin\Debug\077_class_Point.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\077_class_Point\bin\Debug\077_class_Point.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\077_class_Point\obj\Debug\077_class_Point.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\077_class_Point\obj\Debug\077_class_Point.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\077_class_Point\obj\Debug\077_class_Point.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\077_class_Point\obj\Debug\077_class_Point.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\077_class_Point\obj\Debug\077_class_Point.pdb

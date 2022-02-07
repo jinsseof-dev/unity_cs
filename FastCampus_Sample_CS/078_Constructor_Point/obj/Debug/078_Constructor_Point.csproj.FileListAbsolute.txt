@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\078_Constructor_Point\bin\Debug\078_Constructor_Point.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\078_Constructor_Point\bin\Debug\078_Constructor_Point.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\078_Constructor_Point\bin\Debug\078_Constructor_Point.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\078_Constructor_Point\obj\Debug\078_Constructor_Point.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\078_Constructor_Point\obj\Debug\078_Constructor_Point.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\078_Constructor_Point\obj\Debug\078_Constructor_Point.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\078_Constructor_Point\obj\Debug\078_Constructor_Point.pdb
