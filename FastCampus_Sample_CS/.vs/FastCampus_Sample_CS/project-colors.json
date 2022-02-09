@@ -370,7 +370,12 @@
       "ProjectGuid": "2f163ab9-e313-44b3-979b-160fe5681ce2",
       "DisplayName": "081_class_paramter",
       "ColorIndex": 9
+    },
+    "e262b009-8483-4aff-a841-662be334faf3": {
+      "ProjectGuid": "e262b009-8483-4aff-a841-662be334faf3",
+      "DisplayName": "081_class_inheritance_Super",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 11
 }

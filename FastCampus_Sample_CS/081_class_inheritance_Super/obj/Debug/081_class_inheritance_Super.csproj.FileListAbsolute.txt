@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_inheritance_Super\bin\Debug\081_class_inheritance_Super.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_inheritance_Super\bin\Debug\081_class_inheritance_Super.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_inheritance_Super\bin\Debug\081_class_inheritance_Super.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_inheritance_Super\obj\Debug\081_class_inheritance_Super.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_inheritance_Super\obj\Debug\081_class_inheritance_Super.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_inheritance_Super\obj\Debug\081_class_inheritance_Super.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_inheritance_Super\obj\Debug\081_class_inheritance_Super.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_inheritance_Super\obj\Debug\081_class_inheritance_Super.pdb
