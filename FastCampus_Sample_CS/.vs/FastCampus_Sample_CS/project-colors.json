@@ -345,7 +345,32 @@
       "ProjectGuid": "0d4c7837-2be9-4427-b412-ca86741797e4",
       "DisplayName": "CheckPoint03",
       "ColorIndex": 4
+    },
+    "99e3d72f-c19c-4cd0-a250-91e07d616dff": {
+      "ProjectGuid": "99e3d72f-c19c-4cd0-a250-91e07d616dff",
+      "DisplayName": "077_class_Point",
+      "ColorIndex": 5
+    },
+    "8cdf17ba-d5fc-4aeb-ba43-8f6349dcda8f": {
+      "ProjectGuid": "8cdf17ba-d5fc-4aeb-ba43-8f6349dcda8f",
+      "DisplayName": "078_Constructor_Point",
+      "ColorIndex": 6
+    },
+    "1c14f088-f7dd-494f-b10f-51c0c017d016": {
+      "ProjectGuid": "1c14f088-f7dd-494f-b10f-51c0c017d016",
+      "DisplayName": "079_this_AA",
+      "ColorIndex": 7
+    },
+    "e94536b2-830e-4bd9-9035-fb8c21da3a0e": {
+      "ProjectGuid": "e94536b2-830e-4bd9-9035-fb8c21da3a0e",
+      "DisplayName": "080_static",
+      "ColorIndex": 8
+    },
+    "2f163ab9-e313-44b3-979b-160fe5681ce2": {
+      "ProjectGuid": "2f163ab9-e313-44b3-979b-160fe5681ce2",
+      "DisplayName": "081_class_paramter",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 10
 }

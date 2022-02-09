@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_paramter\bin\Debug\081_class_paramter.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_paramter\bin\Debug\081_class_paramter.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_paramter\bin\Debug\081_class_paramter.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_paramter\obj\Debug\081_class_paramter.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_paramter\obj\Debug\081_class_paramter.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_paramter\obj\Debug\081_class_paramter.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\081_class_paramter\obj\Debug\081_class_paramter.pdb
