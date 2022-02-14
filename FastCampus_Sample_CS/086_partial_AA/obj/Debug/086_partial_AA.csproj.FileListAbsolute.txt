@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\086_partial_AA\bin\Debug\086_partial_AA.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\086_partial_AA\bin\Debug\086_partial_AA.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\086_partial_AA\bin\Debug\086_partial_AA.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\086_partial_AA\obj\Debug\086_partial_AA.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\086_partial_AA\obj\Debug\086_partial_AA.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\086_partial_AA\obj\Debug\086_partial_AA.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\086_partial_AA\obj\Debug\086_partial_AA.pdb

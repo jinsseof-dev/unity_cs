@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\085_class_has_a_AA\bin\Debug\085_class_has_a_AA.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\085_class_has_a_AA\bin\Debug\085_class_has_a_AA.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\085_class_has_a_AA\bin\Debug\085_class_has_a_AA.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\085_class_has_a_AA\obj\Debug\085_class_has_a_AA.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\085_class_has_a_AA\obj\Debug\085_class_has_a_AA.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\085_class_has_a_AA\obj\Debug\085_class_has_a_AA.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\085_class_has_a_AA\obj\Debug\085_class_has_a_AA.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\085_class_has_a_AA\obj\Debug\085_class_has_a_AA.pdb

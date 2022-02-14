@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\CheckPoint04\bin\Debug\CheckPoint04.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\CheckPoint04\bin\Debug\CheckPoint04.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\CheckPoint04\bin\Debug\CheckPoint04.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\CheckPoint04\obj\Debug\CheckPoint04.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\CheckPoint04\obj\Debug\CheckPoint04.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\CheckPoint04\obj\Debug\CheckPoint04.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\CheckPoint04\obj\Debug\CheckPoint04.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\CheckPoint04\obj\Debug\CheckPoint04.pdb

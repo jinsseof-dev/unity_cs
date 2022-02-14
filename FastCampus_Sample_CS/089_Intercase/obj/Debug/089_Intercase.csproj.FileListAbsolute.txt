@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\089_Intercase\bin\Debug\089_Intercase.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\089_Intercase\bin\Debug\089_Intercase.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\089_Intercase\bin\Debug\089_Intercase.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\089_Intercase\obj\Debug\089_Intercase.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\089_Intercase\obj\Debug\089_Intercase.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\089_Intercase\obj\Debug\089_Intercase.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\089_Intercase\obj\Debug\089_Intercase.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\089_Intercase\obj\Debug\089_Intercase.pdb

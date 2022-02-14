@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\087_extention\bin\Debug\087_extention.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\087_extention\bin\Debug\087_extention.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\087_extention\bin\Debug\087_extention.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\087_extention\obj\Debug\087_extention.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\087_extention\obj\Debug\087_extention.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\087_extention\obj\Debug\087_extention.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\087_extention\obj\Debug\087_extention.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\087_extention\obj\Debug\087_extention.pdb
