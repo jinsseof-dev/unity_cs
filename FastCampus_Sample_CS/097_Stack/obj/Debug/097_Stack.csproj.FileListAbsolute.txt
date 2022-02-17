@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\097_Stack\bin\Debug\097_Stack.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\097_Stack\bin\Debug\097_Stack.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\097_Stack\bin\Debug\097_Stack.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\097_Stack\obj\Debug\097_Stack.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\097_Stack\obj\Debug\097_Stack.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\097_Stack\obj\Debug\097_Stack.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\097_Stack\obj\Debug\097_Stack.pdb

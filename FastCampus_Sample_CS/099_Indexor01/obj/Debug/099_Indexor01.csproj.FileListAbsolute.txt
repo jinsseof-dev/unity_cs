@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\099_Indexor01\bin\Debug\099_Indexor01.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\099_Indexor01\bin\Debug\099_Indexor01.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\099_Indexor01\bin\Debug\099_Indexor01.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\099_Indexor01\obj\Debug\099_Indexor01.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\099_Indexor01\obj\Debug\099_Indexor01.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\099_Indexor01\obj\Debug\099_Indexor01.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\099_Indexor01\obj\Debug\099_Indexor01.pdb

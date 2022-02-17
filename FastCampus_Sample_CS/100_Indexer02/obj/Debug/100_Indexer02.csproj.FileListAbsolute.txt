@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\100_Indexer02\bin\Debug\100_Indexer02.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\100_Indexer02\bin\Debug\100_Indexer02.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\100_Indexer02\bin\Debug\100_Indexer02.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\100_Indexer02\obj\Debug\100_Indexer02.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\100_Indexer02\obj\Debug\100_Indexer02.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\100_Indexer02\obj\Debug\100_Indexer02.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\100_Indexer02\obj\Debug\100_Indexer02.pdb
