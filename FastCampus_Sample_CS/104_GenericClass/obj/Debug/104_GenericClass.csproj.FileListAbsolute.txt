@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\104_GenericClass\bin\Debug\104_GenericClass.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\104_GenericClass\bin\Debug\104_GenericClass.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\104_GenericClass\bin\Debug\104_GenericClass.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\104_GenericClass\obj\Debug\104_GenericClass.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\104_GenericClass\obj\Debug\104_GenericClass.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\104_GenericClass\obj\Debug\104_GenericClass.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\104_GenericClass\obj\Debug\104_GenericClass.pdb

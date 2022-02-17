@@ -179,6 +179,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100_Indexer02", "100_Indexe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "099_Indexor01", "099_Indexor01\099_Indexor01.csproj", "{5997B132-5DDE-4166-AB00-3C2FD5D23A5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "103_GenericFunc", "103_GenericFunc\103_GenericFunc.csproj", "{73911807-6B54-4FA2-87CD-6A6F09DF0972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104_GenericClass", "104_GenericClass\104_GenericClass.csproj", "{9E8C65F5-30B3-4833-8B22-56466B5E866C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -537,6 +541,14 @@ Global
 		{5997B132-5DDE-4166-AB00-3C2FD5D23A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5997B132-5DDE-4166-AB00-3C2FD5D23A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5997B132-5DDE-4166-AB00-3C2FD5D23A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73911807-6B54-4FA2-87CD-6A6F09DF0972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73911807-6B54-4FA2-87CD-6A6F09DF0972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73911807-6B54-4FA2-87CD-6A6F09DF0972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73911807-6B54-4FA2-87CD-6A6F09DF0972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E8C65F5-30B3-4833-8B22-56466B5E866C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8C65F5-30B3-4833-8B22-56466B5E866C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8C65F5-30B3-4833-8B22-56466B5E866C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8C65F5-30B3-4833-8B22-56466B5E866C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

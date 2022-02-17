@@ -460,7 +460,17 @@
       "ProjectGuid": "5997b132-5dde-4166-ab00-3c2fd5d23a5b",
       "DisplayName": "099_Indexor01",
       "ColorIndex": 10
+    },
+    "73911807-6b54-4fa2-87cd-6a6f09df0972": {
+      "ProjectGuid": "73911807-6b54-4fa2-87cd-6a6f09df0972",
+      "DisplayName": "103_GenericFunc",
+      "ColorIndex": 11
+    },
+    "9e8c65f5-30b3-4833-8b22-56466b5e866c": {
+      "ProjectGuid": "9e8c65f5-30b3-4833-8b22-56466b5e866c",
+      "DisplayName": "104_GenericClass",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 13
 }
