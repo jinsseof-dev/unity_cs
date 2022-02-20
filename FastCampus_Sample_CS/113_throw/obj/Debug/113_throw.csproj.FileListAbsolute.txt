@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\113_throw\bin\Debug\113_throw.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\113_throw\bin\Debug\113_throw.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\113_throw\bin\Debug\113_throw.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\113_throw\obj\Debug\113_throw.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\113_throw\obj\Debug\113_throw.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\113_throw\obj\Debug\113_throw.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\113_throw\obj\Debug\113_throw.pdb

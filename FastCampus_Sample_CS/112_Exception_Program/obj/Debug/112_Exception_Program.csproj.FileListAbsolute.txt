@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\112_Exception_Program\bin\Debug\112_Exception_Program.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\112_Exception_Program\bin\Debug\112_Exception_Program.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\112_Exception_Program\bin\Debug\112_Exception_Program.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\112_Exception_Program\obj\Debug\112_Exception_Program.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\112_Exception_Program\obj\Debug\112_Exception_Program.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\112_Exception_Program\obj\Debug\112_Exception_Program.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\112_Exception_Program\obj\Debug\112_Exception_Program.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0D4CFD67-F1BE-422B-AE9A-1236D3D7A664}</ProjectGuid>
+    <ProjectGuid>{A08C1933-4897-41BE-A79F-60B7C3779AB6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_107_List</RootNamespace>
-    <AssemblyName>107_List</AssemblyName>
+    <RootNamespace>_112_Exception_Program</RootNamespace>
+    <AssemblyName>112_Exception_Program</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
