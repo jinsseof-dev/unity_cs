@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\115_CustomException\bin\Debug\115_CustomException.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\115_CustomException\bin\Debug\115_CustomException.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\115_CustomException\bin\Debug\115_CustomException.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\115_CustomException\obj\Debug\115_CustomException.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\115_CustomException\obj\Debug\115_CustomException.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\115_CustomException\obj\Debug\115_CustomException.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\115_CustomException\obj\Debug\115_CustomException.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\115_CustomException\obj\Debug\115_CustomException.pdb

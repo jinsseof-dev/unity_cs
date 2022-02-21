@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\119_event_in_delegate\bin\Debug\119_event_in_delegate.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\119_event_in_delegate\bin\Debug\119_event_in_delegate.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\119_event_in_delegate\bin\Debug\119_event_in_delegate.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\119_event_in_delegate\obj\Debug\119_event_in_delegate.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\119_event_in_delegate\obj\Debug\119_event_in_delegate.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\119_event_in_delegate\obj\Debug\119_event_in_delegate.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\119_event_in_delegate\obj\Debug\119_event_in_delegate.pdb

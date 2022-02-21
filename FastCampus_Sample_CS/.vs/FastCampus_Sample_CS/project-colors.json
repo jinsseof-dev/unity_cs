@@ -470,7 +470,62 @@
       "ProjectGuid": "9e8c65f5-30b3-4833-8b22-56466b5e866c",
       "DisplayName": "104_GenericClass",
       "ColorIndex": 12
+    },
+    "67ae5f21-4410-4276-807b-4cb0e11ed6ca": {
+      "ProjectGuid": "67ae5f21-4410-4276-807b-4cb0e11ed6ca",
+      "DisplayName": "105_dynamic",
+      "ColorIndex": 13
+    },
+    "38c922c1-bdcb-4711-a308-199b0a5ba181": {
+      "ProjectGuid": "38c922c1-bdcb-4711-a308-199b0a5ba181",
+      "DisplayName": "106_where",
+      "ColorIndex": 14
+    },
+    "0d4cfd67-f1be-422b-ae9a-1236d3d7a664": {
+      "ProjectGuid": "0d4cfd67-f1be-422b-ae9a-1236d3d7a664",
+      "DisplayName": "107_List",
+      "ColorIndex": 15
+    },
+    "078bb25e-d3fe-4762-a83f-956e8ef4f880": {
+      "ProjectGuid": "078bb25e-d3fe-4762-a83f-956e8ef4f880",
+      "DisplayName": "111_try_catch",
+      "ColorIndex": 0
+    },
+    "a08c1933-4897-41be-a79f-60b7c3779ab6": {
+      "ProjectGuid": "a08c1933-4897-41be-a79f-60b7c3779ab6",
+      "DisplayName": "112_Exception_Program",
+      "ColorIndex": 1
+    },
+    "94e83de7-11d1-496e-8c29-6f175a95ae82": {
+      "ProjectGuid": "94e83de7-11d1-496e-8c29-6f175a95ae82",
+      "DisplayName": "113_throw",
+      "ColorIndex": 2
+    },
+    "56f0fe51-35d5-44d5-9588-7c201d0b4efd": {
+      "ProjectGuid": "56f0fe51-35d5-44d5-9588-7c201d0b4efd",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    },
+    "08859650-9a1f-4e60-974b-58ee1d4fee43": {
+      "ProjectGuid": "08859650-9a1f-4e60-974b-58ee1d4fee43",
+      "DisplayName": "115_CustomException",
+      "ColorIndex": 4
+    },
+    "8953298c-7218-4137-9ea3-66afeff617f1": {
+      "ProjectGuid": "8953298c-7218-4137-9ea3-66afeff617f1",
+      "DisplayName": "116_delegate",
+      "ColorIndex": 5
+    },
+    "cadd9827-da26-47d7-bc32-91442acc3e2f": {
+      "ProjectGuid": "cadd9827-da26-47d7-bc32-91442acc3e2f",
+      "DisplayName": "118_delegateParam",
+      "ColorIndex": 6
+    },
+    "7605c512-80a5-42e9-9465-890b8dc5fb5a": {
+      "ProjectGuid": "7605c512-80a5-42e9-9465-890b8dc5fb5a",
+      "DisplayName": "119_event_in_delegate",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 8
 }
