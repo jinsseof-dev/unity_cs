@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\120_Rambda\bin\Debug\120_Rambda.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\120_Rambda\bin\Debug\120_Rambda.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\120_Rambda\bin\Debug\120_Rambda.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\120_Rambda\obj\Debug\120_Rambda.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\120_Rambda\obj\Debug\120_Rambda.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\120_Rambda\obj\Debug\120_Rambda.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\120_Rambda\obj\Debug\120_Rambda.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\120_Rambda\obj\Debug\120_Rambda.pdb

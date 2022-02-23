@@ -525,7 +525,37 @@
       "ProjectGuid": "7605c512-80a5-42e9-9465-890b8dc5fb5a",
       "DisplayName": "119_event_in_delegate",
       "ColorIndex": 7
+    },
+    "2b4d5d01-54d2-428f-9cae-b9210b41f631": {
+      "ProjectGuid": "2b4d5d01-54d2-428f-9cae-b9210b41f631",
+      "DisplayName": "120_Ranbda",
+      "ColorIndex": 8
+    },
+    "b1eeae90-e8af-4d7c-8403-265c011b4f9d": {
+      "ProjectGuid": "b1eeae90-e8af-4d7c-8403-265c011b4f9d",
+      "DisplayName": "120_Rambda",
+      "ColorIndex": 9
+    },
+    "a3edb666-8622-4263-afbb-c365249b77d6": {
+      "ProjectGuid": "a3edb666-8622-4263-afbb-c365249b77d6",
+      "DisplayName": "121_ListRambda",
+      "ColorIndex": 10
+    },
+    "05c41c03-fc5e-48d4-8a90-26ad90ee94fb": {
+      "ProjectGuid": "05c41c03-fc5e-48d4-8a90-26ad90ee94fb",
+      "DisplayName": "122_FuncRambda",
+      "ColorIndex": 11
+    },
+    "d0ab0c91-2668-46ce-b1a4-5306c05a3772": {
+      "ProjectGuid": "d0ab0c91-2668-46ce-b1a4-5306c05a3772",
+      "DisplayName": "123_Action",
+      "ColorIndex": 12
+    },
+    "c9b1a9ae-4de8-41b8-9fc6-699183125980": {
+      "ProjectGuid": "c9b1a9ae-4de8-41b8-9fc6-699183125980",
+      "DisplayName": "124_Func",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 14
 }
