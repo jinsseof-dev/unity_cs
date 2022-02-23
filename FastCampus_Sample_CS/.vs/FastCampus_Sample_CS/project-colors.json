@@ -555,7 +555,37 @@
       "ProjectGuid": "c9b1a9ae-4de8-41b8-9fc6-699183125980",
       "DisplayName": "124_Func",
       "ColorIndex": 13
+    },
+    "a993c586-d50a-47c8-ab44-faaa47fc253c": {
+      "ProjectGuid": "a993c586-d50a-47c8-ab44-faaa47fc253c",
+      "DisplayName": "125_LINQ",
+      "ColorIndex": 14
+    },
+    "25135895-1106-40ab-87ca-8c71167fffaa": {
+      "ProjectGuid": "25135895-1106-40ab-87ca-8c71167fffaa",
+      "DisplayName": "126_LINQ_select",
+      "ColorIndex": 15
+    },
+    "c2ee23ab-96b8-4a86-b1df-30b4dc72cc26": {
+      "ProjectGuid": "c2ee23ab-96b8-4a86-b1df-30b4dc72cc26",
+      "DisplayName": "127_LINQ_orderby",
+      "ColorIndex": 0
+    },
+    "a2e9bff6-eca2-480d-985c-594fae100006": {
+      "ProjectGuid": "a2e9bff6-eca2-480d-985c-594fae100006",
+      "DisplayName": "128_LINQ_group",
+      "ColorIndex": 1
+    },
+    "868eba3a-ff8b-412c-b53a-938e9fd55c08": {
+      "ProjectGuid": "868eba3a-ff8b-412c-b53a-938e9fd55c08",
+      "DisplayName": "129_LINQ_group2",
+      "ColorIndex": 2
+    },
+    "183e2d84-7289-4a9f-b13e-9524f68aa2d4": {
+      "ProjectGuid": "183e2d84-7289-4a9f-b13e-9524f68aa2d4",
+      "DisplayName": "130_LINQ_join",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 4
 }

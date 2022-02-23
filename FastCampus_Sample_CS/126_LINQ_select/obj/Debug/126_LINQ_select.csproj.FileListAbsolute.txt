@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\126_LINQ_select\bin\Debug\126_LINQ_select.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\126_LINQ_select\bin\Debug\126_LINQ_select.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\126_LINQ_select\bin\Debug\126_LINQ_select.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\126_LINQ_select\obj\Debug\126_LINQ_select.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\126_LINQ_select\obj\Debug\126_LINQ_select.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\126_LINQ_select\obj\Debug\126_LINQ_select.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\126_LINQ_select\obj\Debug\126_LINQ_select.pdb

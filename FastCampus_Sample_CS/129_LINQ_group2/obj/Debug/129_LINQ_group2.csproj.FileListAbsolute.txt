@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\129_LINQ_group2\bin\Debug\129_LINQ_group2.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\129_LINQ_group2\bin\Debug\129_LINQ_group2.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\129_LINQ_group2\bin\Debug\129_LINQ_group2.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\129_LINQ_group2\obj\Debug\129_LINQ_group2.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\129_LINQ_group2\obj\Debug\129_LINQ_group2.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\129_LINQ_group2\obj\Debug\129_LINQ_group2.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\129_LINQ_group2\obj\Debug\129_LINQ_group2.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\129_LINQ_group2\obj\Debug\129_LINQ_group2.pdb

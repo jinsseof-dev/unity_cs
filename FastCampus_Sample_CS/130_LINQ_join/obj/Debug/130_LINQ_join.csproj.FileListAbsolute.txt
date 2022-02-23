@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\130_LINQ_join\bin\Debug\130_LINQ_join.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\130_LINQ_join\bin\Debug\130_LINQ_join.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\130_LINQ_join\bin\Debug\130_LINQ_join.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\130_LINQ_join\obj\Debug\130_LINQ_join.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\130_LINQ_join\obj\Debug\130_LINQ_join.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\130_LINQ_join\obj\Debug\130_LINQ_join.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\130_LINQ_join\obj\Debug\130_LINQ_join.pdb

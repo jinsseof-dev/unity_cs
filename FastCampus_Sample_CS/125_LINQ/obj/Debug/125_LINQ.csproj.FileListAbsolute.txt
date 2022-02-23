@@ -1,0 +1,8 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\125_LINQ\bin\Debug\125_LINQ.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\125_LINQ\bin\Debug\125_LINQ.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\125_LINQ\bin\Debug\125_LINQ.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.csproj.AssemblyReference.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.pdb

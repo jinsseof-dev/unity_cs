@@ -1,0 +1,7 @@
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\127_LINQ_orderby\bin\Debug\127_LINQ_orderby.exe.config
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\127_LINQ_orderby\bin\Debug\127_LINQ_orderby.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\127_LINQ_orderby\bin\Debug\127_LINQ_orderby.pdb
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\127_LINQ_orderby\obj\Debug\127_LINQ_orderby.csproj.SuggestedBindingRedirects.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\127_LINQ_orderby\obj\Debug\127_LINQ_orderby.csproj.CoreCompileInputs.cache
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\127_LINQ_orderby\obj\Debug\127_LINQ_orderby.exe
+D:\workspace\fastcampus\unity_cs\FastCampus_Sample_CS\127_LINQ_orderby\obj\Debug\127_LINQ_orderby.pdb
