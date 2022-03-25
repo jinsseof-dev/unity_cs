@@ -27,7 +27,11 @@ public class Enemy : MonoBehaviour
     [SerializeField]
     float CurrentSpeed;
 
+    Vector3 CurrentVelocity;
 
+    float MoveStartTime = 0.0f;
+
+    float BattleStartTime = 0.0f;
 
 
 
@@ -40,24 +44,62 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.L))
+        {
+            Appear(new Vector3(15.0f, transform.position.x, transform.position.y));
+        }
 
+        switch (CurrentState)
+        {
+            case State.None:
+            case State.Ready:
+                break;
+            case State.Dead:
+                break;
+            case State.Appear:
+            case State.Disappear:
+                UpdateSpeed();
+                UpdateMove();
+                break;
+            case State.Battle:
+                UpdateBattle();
+                break;
+        }
     }
 
     void UpdateSpeed()
     {
-
+        CurrentSpeed = Mathf.Lerp(CurrentSpeed, MaxSpeed, (Time.time - MoveStartTime) / MaxSpeedTime); // 두 값 사이의 어딘가를 반환함
     }
 
     void UpdateMove()
     {
+        float distance = Vector3.Distance(TargetPosition, transform.position);
+        if (distance == 0)
+        {
+            Arrived();
+            return;
+        }
+        CurrentVelocity = (transform.position - TargetPosition).normalized * CurrentSpeed;
 
+        // 속도 = 거리 / 시간 이므로 시간 = 거리 / 속도
+        transform.position = Vector3.SmoothDamp(transform.position, TargetPosition, ref CurrentVelocity, distance / CurrentSpeed, MaxSpeed);
     }
 
 
 
     void Arrived()
     {
-
+        CurrentSpeed = 0.0f;
+        if (CurrentState == State.Appear)
+        {
+            CurrentState = State.Battle;
+            BattleStartTime = Time.time;
+        }
+        else if (CurrentState == State.Disappear)
+        {
+            CurrentState = State.None;
+        }
     }
 
     public void Appear(Vector3 targetPos)
@@ -66,6 +108,7 @@ public class Enemy : MonoBehaviour
         CurrentSpeed = MaxSpeed;
 
         CurrentState = State.Appear;
+        MoveStartTime = Time.time;
     }
 
 
@@ -74,5 +117,14 @@ public class Enemy : MonoBehaviour
         TargetPosition = targetPos;
         CurrentSpeed = 0;
         CurrentState = State.Disappear;
+        MoveStartTime = Time.time;
+    }
+
+    void UpdateBattle()
+    {
+        if (Time.time - BattleStartTime > 3.0f)
+        {
+            Disappear(new Vector3(-15.0f, transform.position.x, transform.position.y));
+        }
     }
 }
