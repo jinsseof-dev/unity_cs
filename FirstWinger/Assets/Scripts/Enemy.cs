@@ -44,11 +44,7 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.L))
-        {
-            Appear(new Vector3(15.0f, transform.position.x, transform.position.y));
-        }
-
+        Debug.Log(CurrentState);
         switch (CurrentState)
         {
             case State.None:
@@ -122,9 +118,25 @@ public class Enemy : MonoBehaviour
 
     void UpdateBattle()
     {
+        Debug.Log("time : " + Time.time + "// BattleStartTime : " + BattleStartTime + " // Diff : " + (Time.time - BattleStartTime));
         if (Time.time - BattleStartTime > 3.0f)
         {
-            Disappear(new Vector3(-15.0f, transform.position.x, transform.position.y));
+            Disappear(new Vector3(-15.0f, transform.position.y, transform.position.z));
         }
+    }
+
+    private void OnTriggerEnter(Collider other) // other는 이 오브젝트와 부딪힌 다른(other) Collider를 의미
+    {
+        Debug.Log("(Enemy) other = " + other.name); // other Collider의 정보 확인
+
+        Player player = other.GetComponentInParent<Player>(); // 부딪힌 오브젝트의 컴포넌트 획득
+        if (player)
+        {
+            player.OnCrash(this); // player에게 Crash 이벤트 전달
+        }
+    }
+    public void OnCrash(Player player)
+    {
+        Debug.Log("(Enemy) OnCrash player = " + player.name);
     }
 }
