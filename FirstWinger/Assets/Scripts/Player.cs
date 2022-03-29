@@ -16,6 +16,15 @@ public class Player : MonoBehaviour
     [SerializeField]
     Transform MainBGQuadTransform;
 
+    [SerializeField]
+    Transform FireTransform;
+
+    [SerializeField]
+    GameObject Bullet;
+
+    [SerializeField]
+    float BulletSpeed = 1;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -43,7 +52,7 @@ public class Player : MonoBehaviour
     public void ProcessInput(Vector3 moveDirection)
     {
         MoveVector = moveDirection * Speed * Time.deltaTime;
-
+        Debug.Log(MoveVector);
     }
 
     Vector3 AdjustMoveVector(Vector3 moveVector)
@@ -52,19 +61,19 @@ public class Player : MonoBehaviour
 
         result = boxCollider.transform.position + boxCollider.center + moveVector;
 
-        if (result.x - boxCollider.size.x * 0.5f - 15 < -MainBGQuadTransform.localScale.x * 0.5f)
+        if (result.x - boxCollider.size.x * 0.5f < -MainBGQuadTransform.localScale.x * 0.5f)
         {
             moveVector.x = 0;
         }
-        if (result.x + boxCollider.size.x * 0.5f - 15 > MainBGQuadTransform.localScale.x * 0.5f)
+        if (result.x + boxCollider.size.x * 0.5f > MainBGQuadTransform.localScale.x * 0.5f)
         {
             moveVector.x = 0;
         }
-        if (result.y - boxCollider.size.y * 0.5f + 10.5f < -MainBGQuadTransform.localScale.y * 0.5f)
+        if (result.y - boxCollider.size.y * 0.5f< -MainBGQuadTransform.localScale.y * 0.5f)
         {
             moveVector.y = 0;
         }
-        if (result.y + boxCollider.size.y * 0.5f + 10.5f > MainBGQuadTransform.localScale.y * 0.5f)
+        if (result.y + boxCollider.size.y * 0.5f > MainBGQuadTransform.localScale.y * 0.5f)
         {
             moveVector.y = 0;
         }
@@ -86,5 +95,14 @@ public class Player : MonoBehaviour
     public void OnCrash(Enemy enemy)
     {
         Debug.Log("(Player) OnCrash enemy = " + enemy.name);
+    }
+
+    public void Fire()
+    {
+        GameObject go = Instantiate(Bullet);
+
+        Bullet bullet = go.GetComponent<Bullet>();
+        bullet.Fire(OwnerSide.Player, FireTransform.position, FireTransform.right, BulletSpeed);
+
     }
 }

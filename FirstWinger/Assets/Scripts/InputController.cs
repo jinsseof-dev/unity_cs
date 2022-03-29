@@ -14,6 +14,7 @@ public class InputController : MonoBehaviour
     void Update()
     {
         UpdateInput();
+        UpdateMouse();
     }
 
     void UpdateInput()
@@ -22,25 +23,30 @@ public class InputController : MonoBehaviour
 
         if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow))
         {
-            Debug.Log("Up");
             moveDirection.y = 1;
         }
         if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
         {
-            Debug.Log("Down");
             moveDirection.y = -1;
         }
         if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
-            Debug.Log("Left");
             moveDirection.x = -1;
         }
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
-            Debug.Log("Right");
             moveDirection.x = 1;
         }
 
+        Debug.Log(moveDirection);
         SystemManager.Instance.Hero.ProcessInput(moveDirection);
+    }
+
+    void UpdateMouse()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            SystemManager.Instance.Hero.Fire();
+        }
     }
 }
