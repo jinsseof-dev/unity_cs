@@ -1272,6 +1272,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 146930339921799174, guid: 298d499019131434fb0fb7655e406c27, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2026488668797153224, guid: 298d499019131434fb0fb7655e406c27, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2026488670300996761, guid: 298d499019131434fb0fb7655e406c27, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 298d499019131434fb0fb7655e406c27, type: 3}
 --- !u!1001 &5406805051030734721
@@ -1341,9 +1353,17 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5733198895776332031, guid: 74de85a0d95452d468b5a6f46990b4eb, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 5786996411555741655, guid: 74de85a0d95452d468b5a6f46990b4eb, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5786996411555741655, guid: 74de85a0d95452d468b5a6f46990b4eb, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 5786996411555741655, guid: 74de85a0d95452d468b5a6f46990b4eb, type: 3}
       propertyPath: m_IsActive
@@ -1352,6 +1372,14 @@ PrefabInstance:
     - target: {fileID: 6337771098043318280, guid: 74de85a0d95452d468b5a6f46990b4eb, type: 3}
       propertyPath: Speed
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7528695135591019831, guid: 74de85a0d95452d468b5a6f46990b4eb, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 9134821120260323732, guid: 74de85a0d95452d468b5a6f46990b4eb, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 9137797492386653100, guid: 74de85a0d95452d468b5a6f46990b4eb, type: 3}
       propertyPath: m_LocalPosition.x

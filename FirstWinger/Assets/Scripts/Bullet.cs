@@ -19,6 +19,8 @@ public class Bullet : MonoBehaviour
 
     bool NeedMove = false;
 
+    bool Hited = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -52,5 +54,42 @@ public class Bullet : MonoBehaviour
         // 이대로도 총알이 날아갈텐데 추가 작업을 ㅎ자ㅏ
 
         NeedMove = true;
+    }
+
+
+    Vector3 AdjustMove(Vector3 moveVector)
+    {
+        RaycastHit hitInfo;
+        
+        if (Physics.Linecast(transform.position, transform.position + moveVector, out hitInfo))
+        {
+            moveVector = hitInfo.point;
+        }
+        return moveVector;
+    }
+
+    void OnBulletCollision(Collider collider)
+    {
+        if (Hited)
+        {
+            return;
+        }
+
+        Collider myCollider = GetComponentInChildren<Collider>();
+        myCollider.enabled = false;
+
+        Hited = true;
+        NeedMove = false;
+
+        Debug.Log("OnBulletCollision collider = " + collider.name);
+
+        if (ownerSide == OwnerSide.Player)
+        {
+            Enemy enemy = collider.GetComponentInParent<Enemy>();
+        }
+        else
+        {
+            Player player = collider.GetComponentInParent<Player>();
+        }
     }
 }
