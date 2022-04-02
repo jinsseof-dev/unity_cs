@@ -61,20 +61,25 @@ public class Player : MonoBehaviour
 
         result = boxCollider.transform.position + boxCollider.center + moveVector;
 
+        Debug.Log("E");
         if (result.x - boxCollider.size.x * 0.5f < -MainBGQuadTransform.localScale.x * 0.5f)
         {
+            Debug.Log("A");
             moveVector.x = 0;
         }
         if (result.x + boxCollider.size.x * 0.5f > MainBGQuadTransform.localScale.x * 0.5f)
         {
+            Debug.Log("B");
             moveVector.x = 0;
         }
         if (result.y - boxCollider.size.y * 0.5f< -MainBGQuadTransform.localScale.y * 0.5f)
         {
+            Debug.Log("C");
             moveVector.y = 0;
         }
         if (result.y + boxCollider.size.y * 0.5f > MainBGQuadTransform.localScale.y * 0.5f)
         {
+            Debug.Log("D");
             moveVector.y = 0;
         }
 

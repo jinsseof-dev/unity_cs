@@ -38,7 +38,6 @@ public class InputController : MonoBehaviour
             moveDirection.x = 1;
         }
 
-        Debug.Log(moveDirection);
         SystemManager.Instance.Hero.ProcessInput(moveDirection);
     }
 
@@ -46,7 +45,7 @@ public class InputController : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            SystemManager.Instance.Hero.Fire();
+            // SystemManager.Instance.Hero.Fire();
         }
     }
 }

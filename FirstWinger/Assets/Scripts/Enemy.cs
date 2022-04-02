@@ -31,9 +31,19 @@ public class Enemy : MonoBehaviour
 
     float MoveStartTime = 0.0f;
 
-    float BattleStartTime = 0.0f;
+    [SerializeField]
+    Transform FireTransform;
 
+    [SerializeField]
+    GameObject Bullet;
 
+    [SerializeField]
+    float BulletSpeed = 1;
+
+    float LastBattleUpdateTime = 0.0f;
+
+    [SerializeField]
+    int FireRemainCount = 1;
 
     // Start is called before the first frame update
     void Start()
@@ -90,7 +100,7 @@ public class Enemy : MonoBehaviour
         if (CurrentState == State.Appear)
         {
             CurrentState = State.Battle;
-            BattleStartTime = Time.time;
+            LastBattleUpdateTime = Time.time;
         }
         else if (CurrentState == State.Disappear)
         {
@@ -118,11 +128,21 @@ public class Enemy : MonoBehaviour
 
     void UpdateBattle()
     {
-        Debug.Log("time : " + Time.time + "// BattleStartTime : " + BattleStartTime + " // Diff : " + (Time.time - BattleStartTime));
-        if (Time.time - BattleStartTime > 3.0f)
+        Debug.Log("time : " + Time.time + "// BattleStartTime : " + LastBattleUpdateTime + " // Diff : " + (Time.time - LastBattleUpdateTime));
+        if (Time.time - LastBattleUpdateTime > 3.0f)
         {
-            Disappear(new Vector3(-15.0f, transform.position.y, transform.position.z));
+            if (FireRemainCount > 0)
+            {
+                Fire();
+                FireRemainCount--;
+            }
+            else
+            {
+                Disappear(new Vector3(-15.0f, transform.position.y, transform.position.z));
+            }
         }
+
+        LastBattleUpdateTime = Time.time;
     }
 
     private void OnTriggerEnter(Collider other) // other는 이 오브젝트와 부딪힌 다른(other) Collider를 의미
@@ -138,5 +158,14 @@ public class Enemy : MonoBehaviour
     public void OnCrash(Player player)
     {
         Debug.Log("(Enemy) OnCrash player = " + player.name);
+    }
+
+    public void Fire()
+    {
+        GameObject go = Instantiate(Bullet);
+
+        Bullet bullet = go.GetComponent<Bullet>();
+        bullet.Fire(OwnerSide.Enemy, FireTransform.position, -FireTransform.right, BulletSpeed);
+
     }
 }
