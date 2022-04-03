@@ -54,7 +54,6 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(CurrentState);
         switch (CurrentState)
         {
             case State.None:
@@ -86,7 +85,8 @@ public class Enemy : MonoBehaviour
             Arrived();
             return;
         }
-        CurrentVelocity = (transform.position - TargetPosition).normalized * CurrentSpeed;
+        // 
+        CurrentVelocity = (TargetPosition - transform.position).normalized * CurrentSpeed;
 
         // 속도 = 거리 / 시간 이므로 시간 = 거리 / 속도
         transform.position = Vector3.SmoothDamp(transform.position, TargetPosition, ref CurrentVelocity, distance / CurrentSpeed, MaxSpeed);
@@ -128,9 +128,9 @@ public class Enemy : MonoBehaviour
 
     void UpdateBattle()
     {
-        Debug.Log("time : " + Time.time + "// BattleStartTime : " + LastBattleUpdateTime + " // Diff : " + (Time.time - LastBattleUpdateTime));
         if (Time.time - LastBattleUpdateTime > 3.0f)
         {
+            //Debug.Log("time : " + Time.time + "// BattleStartTime : " + LastBattleUpdateTime + " // Diff : " + (Time.time - LastBattleUpdateTime));
             if (FireRemainCount > 0)
             {
                 Fire();
@@ -140,9 +140,9 @@ public class Enemy : MonoBehaviour
             {
                 Disappear(new Vector3(-15.0f, transform.position.y, transform.position.z));
             }
+            LastBattleUpdateTime = Time.time;
         }
 
-        LastBattleUpdateTime = Time.time;
     }
 
     private void OnTriggerEnter(Collider other) // other는 이 오브젝트와 부딪힌 다른(other) Collider를 의미

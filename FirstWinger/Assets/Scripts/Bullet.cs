@@ -71,7 +71,8 @@ public class Bullet : MonoBehaviour
         
         if (Physics.Linecast(transform.position, transform.position + moveVector, out hitInfo))
         {
-            moveVector = hitInfo.point;
+            moveVector = hitInfo.point - transform.position;
+            OnBulletCollision(hitInfo.collider);
         }
         return moveVector;
     }
@@ -101,12 +102,15 @@ public class Bullet : MonoBehaviour
         }
     }
 
+
+
     bool ProcessDisappearCondition()
-    { 
+    {
         if (transform.position.x > 15.0f || transform.position.x < -15.0f
          || transform.position.y > 15.0f || transform.position.y < -15.0f)
         {
-            ProcessDisappearCondition();
+            Debug.Log("bullet transform: " + transform);
+            //ProcessDisappearCondition();
             return true;
         }
         else if (Time.time - FiredTime > LifeTime)
@@ -120,6 +124,6 @@ public class Bullet : MonoBehaviour
 
     void Disappear()
     {
-
+        Debug.Log("Bullet Disappeared");
     }
 }

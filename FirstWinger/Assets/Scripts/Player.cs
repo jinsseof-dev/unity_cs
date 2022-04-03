@@ -14,7 +14,7 @@ public class Player : MonoBehaviour
     BoxCollider boxCollider;
 
     [SerializeField]
-    Transform MainBGQuadTransform;
+    Transform MainBGQuadTransform; // Player와 부딪힘을 감지할 배경 리소스
 
     [SerializeField]
     Transform FireTransform;
@@ -52,7 +52,6 @@ public class Player : MonoBehaviour
     public void ProcessInput(Vector3 moveDirection)
     {
         MoveVector = moveDirection * Speed * Time.deltaTime;
-        Debug.Log(MoveVector);
     }
 
     Vector3 AdjustMoveVector(Vector3 moveVector)
@@ -61,25 +60,20 @@ public class Player : MonoBehaviour
 
         result = boxCollider.transform.position + boxCollider.center + moveVector;
 
-        Debug.Log("E");
         if (result.x - boxCollider.size.x * 0.5f < -MainBGQuadTransform.localScale.x * 0.5f)
         {
-            Debug.Log("A");
             moveVector.x = 0;
         }
         if (result.x + boxCollider.size.x * 0.5f > MainBGQuadTransform.localScale.x * 0.5f)
         {
-            Debug.Log("B");
             moveVector.x = 0;
         }
         if (result.y - boxCollider.size.y * 0.5f< -MainBGQuadTransform.localScale.y * 0.5f)
         {
-            Debug.Log("C");
             moveVector.y = 0;
         }
         if (result.y + boxCollider.size.y * 0.5f > MainBGQuadTransform.localScale.y * 0.5f)
         {
-            Debug.Log("D");
             moveVector.y = 0;
         }
 
