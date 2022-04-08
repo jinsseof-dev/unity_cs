@@ -84,6 +84,15 @@ public class Bullet : MonoBehaviour
             return;
         }
 
+
+        if (collider.gameObject.layer == LayerMask.NameToLayer("EnemyBullet")
+         || collider.gameObject.layer == LayerMask.NameToLayer("PlayerBullet")
+        {
+            return;
+        }
+        ;// Layer 이름으로 int값을 얻을 수 있음
+
+
         Collider myCollider = GetComponentInChildren<Collider>();
         myCollider.enabled = false;
 
