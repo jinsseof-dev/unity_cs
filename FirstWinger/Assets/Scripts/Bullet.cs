@@ -51,7 +51,7 @@ public class Bullet : MonoBehaviour
         }
 
         Vector3 moveVector = MoveDirection.normalized * Speed * Time.deltaTime;
-
+        moveVector = AdjustMove(moveVector);
         transform.position += moveVector;
     }
 
@@ -62,7 +62,7 @@ public class Bullet : MonoBehaviour
         MoveDirection = direction;
         Speed = speed;
         Damage = damage;
-        // 이대로도 총알이 날아갈텐데 추가 작업을 ㅎ자ㅏ
+        // 이대로도 총알이 날아갈텐데 추가 작업을 하자
 
         NeedMove = true;
         FiredTime = Time.time;
@@ -75,6 +75,11 @@ public class Bullet : MonoBehaviour
         
         if (Physics.Linecast(transform.position, transform.position + moveVector, out hitInfo))
         {
+            Actor actor = hitInfo.collider.GetComponentInParent<Actor>();
+            if (actor && actor.IsDead)
+            {
+                return moveVector;
+            }
             moveVector = hitInfo.point - transform.position;
             OnBulletCollision(hitInfo.collider);
         }
@@ -85,22 +90,19 @@ public class Bullet : MonoBehaviour
     {
         if (Hited)
         {
+            Debug.Log("OnBulletCollision Hited");
             return;
         }
-
-
-        if (collider.gameObject.layer == LayerMask.NameToLayer("EnemyBullet") // Layer 이름으로 int값을 얻을 수 있음
-         || collider.gameObject.layer == LayerMask.NameToLayer("PlayerBullet"))
+        else
         {
-            return;
+            Debug.Log("OnBulletCollision No Hited");
         }
-        
 
 
         if (ownerSide == OwnerSide.Player)
         {
             Enemy enemy = collider.GetComponentInParent<Enemy>();
-            if (enemy.isDead)
+            if (enemy.IsDead)
             {
                 return;
             }
@@ -109,7 +111,7 @@ public class Bullet : MonoBehaviour
         else
         {
             Player player = collider.GetComponentInParent<Player>();
-            if (player.isDead)
+            if (player.IsDead)
             {
                 return;
             }
@@ -126,13 +128,19 @@ public class Bullet : MonoBehaviour
     }
 
 
+    private void OnTriggerEnter(Collider other)
+    {
+        OnBulletCollision(other);
+    }
+
+
 
     bool ProcessDisappearCondition()
     {
         if (transform.position.x > 15.0f || transform.position.x < -15.0f
          || transform.position.y > 15.0f || transform.position.y < -15.0f)
         {
-            Debug.Log("bullet transform: " + transform);
+            //Debug.Log("bullet transform: " + transform);
             //ProcessDisappearCondition();
             return true;
         }

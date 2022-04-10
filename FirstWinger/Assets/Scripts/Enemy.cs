@@ -130,7 +130,6 @@ public class Enemy : Actor
     {
         if (Time.time - LastBattleUpdateTime > 3.0f)
         {
-            //Debug.Log("time : " + Time.time + "// BattleStartTime : " + LastBattleUpdateTime + " // Diff : " + (Time.time - LastBattleUpdateTime));
             if (FireRemainCount > 0)
             {
                 Fire();
@@ -147,17 +146,22 @@ public class Enemy : Actor
 
     private void OnTriggerEnter(Collider other) // other는 이 오브젝트와 부딪힌 다른(other) Collider를 의미
     {
-        Debug.Log("(Enemy) other = " + other.name); // other Collider의 정보 확인
+        //Debug.Log("(Enemy) other = " + other.name); // other Collider의 정보 확인
 
         Player player = other.GetComponentInParent<Player>(); // 부딪힌 오브젝트의 컴포넌트 획득
         if (player)
         {
-            player.OnCrash(this); // player에게 Crash 이벤트 전달
+            if (!player.IsDead)
+            {
+                player.OnCrash(this, CrashDamage); // player에게 Crash 이벤트 전달
+            }
         }
     }
-    public void OnCrash(Player player)
+    public void OnCrash(Player player, int damage)
     {
-        Debug.Log("(Enemy) OnCrash player = " + player.name);
+        //Debug.Log("(Enemy) OnCrash player = " + player.name);
+
+        OnCrash(damage);
     }
 
     public void Fire()
@@ -167,5 +171,12 @@ public class Enemy : Actor
         Bullet bullet = go.GetComponent<Bullet>();
         bullet.Fire(OwnerSide.Enemy, FireTransform.position, -FireTransform.right, BulletSpeed, Damage);
 
+    }
+
+    protected override void OnDead()
+    {
+        base.OnDead();
+
+        CurrentState = State.Dead;
     }
 }

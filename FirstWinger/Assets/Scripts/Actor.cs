@@ -19,7 +19,23 @@ public class Actor : MonoBehaviour
     protected int crashDamage = 100;
 
     [SerializeField]
-    public bool isDead = false; // 상속 받아간 player와 enemy에서 public이 아니면 scope 에러 발생
+    bool isDead = false; // 상속 받아간 player와 enemy에서 public이 아니면 scope 에러 발생
+
+    public bool IsDead
+    {
+        get
+        {
+            return isDead;
+        }
+    }
+
+    protected int CrashDamage
+    {
+        get
+        {
+            return crashDamage;
+        }
+    }
 
 
     // Start is called before the first frame update
@@ -50,6 +66,13 @@ public class Actor : MonoBehaviour
         DecreaseHP(damage);
     }
 
+    public virtual void OnCrash(int damage)
+    {
+        Debug.Log("OnCrash damage = " + damage);
+        DecreaseHP(damage);
+    }
+
+
     void DecreaseHP(int value)
     {
         if (isDead)
@@ -71,7 +94,7 @@ public class Actor : MonoBehaviour
 
     protected virtual void OnDead()
     {
-        Debug.Log(name + "OnDead");
+        Debug.Log(name + " OnDead");
         isDead = true;
     }
 

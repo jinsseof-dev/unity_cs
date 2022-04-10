@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1996237276737764049}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FirePoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 3194258680096898199}
   - component: {fileID: 5058705417556519972}
   - component: {fileID: 6337771098043318280}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -115,7 +115,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1372930678342203585}
   - component: {fileID: 3720475716392888161}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PlayerCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -160,7 +160,7 @@ GameObject:
   - component: {fileID: 9137797492386653100}
   - component: {fileID: 9130480757540926954}
   - component: {fileID: 9120983833985719846}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: StarSparrow1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

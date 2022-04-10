@@ -47,6 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MoveDirection: {x: 0, y: 0, z: 0}
   Speed: 0
+  Damage: 1
 --- !u!54 &1376342270786432996
 Rigidbody:
   m_ObjectHideFlags: 0

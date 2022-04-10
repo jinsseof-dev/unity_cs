@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 146930339921799173}
   - component: {fileID: 146930339921799172}
   - component: {fileID: 146930339921799175}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58,7 +58,7 @@ MonoBehaviour:
   FireTransform: {fileID: 369247086273634179}
   Bullet: {fileID: 2280172544360832834, guid: 37bda6d936b11a14fa9ca7a2a729a5e3, type: 3}
   BulletSpeed: 10
-  FireRemainCount: 1
+  FireRemainCount: 3
 --- !u!54 &146930339921799175
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -86,7 +86,7 @@ GameObject:
   - component: {fileID: 2026488668797153225}
   - component: {fileID: 2026488668797153231}
   - component: {fileID: 2026488668797153230}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: StarSparrow13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -166,7 +166,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2026488670300996766}
   - component: {fileID: 2026488670300996767}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnumyCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -209,7 +209,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 369247086273634179}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FirePoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
